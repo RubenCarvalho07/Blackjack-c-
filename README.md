@@ -1,4 +1,4 @@
-# Blackjack-c++-
+# Blackjack c++
 
 Este projeto foi desenvolvido por um jovem estudante de informática sem muita experiência em programação e é um jogo simples de blackjack sem split e sem opção de recomeçar a partida (apenas executando novamente).
 Todas as regras são respeitadas:
